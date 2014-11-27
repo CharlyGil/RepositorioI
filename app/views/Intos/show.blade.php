@@ -1,0 +1,1 @@
+/var/www/laravel/FresSoft/resources/views/Intos/show.blade.php

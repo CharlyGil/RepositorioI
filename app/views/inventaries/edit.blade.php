@@ -1,0 +1,1 @@
+/var/www/laravel/FresSoft/resources/views/inventaries/edit.blade.php

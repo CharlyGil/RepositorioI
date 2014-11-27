@@ -1,0 +1,1 @@
+/var/www/laravel/FresSoft/resources/views/Sales/index.blade.php
